@@ -547,6 +547,20 @@ main {
         margin: 0%;
     }
 
+    .imagen3-4 {
+        height: 75%;
+        width: 90%;
+        margin: 15px;
+        border-radius: 20px;
+    }
+
+    .imagen-ultimas-servicios {
+        height: 75%;
+        width: 90%;
+        margin: 15px;
+        border-radius: 20px;
+    }
+
     .footer1 {
         grid-template-columns: 1fr;
         grid-template-rows: 1fr 1fr 1fr;
