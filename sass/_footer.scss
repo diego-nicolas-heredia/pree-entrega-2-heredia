@@ -1,0 +1,30 @@
+@import "mediaqueries";
+
+
+
+
+.footer-real{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 350px;
+    width: 100%;
+    padding-right: 20px;
+    background-color: black;
+    @include mobile(){
+        width: 100%;
+        gap: 0;
+        }
+}
+
+.texto-contacto-footer{
+    text-align: center;
+    color: antiquewhite;
+    font-size: large;
+    font-family: cursive;
+}
+
+.decorado-footer{
+    text-decoration: none;
+    color: antiquewhite;
+}

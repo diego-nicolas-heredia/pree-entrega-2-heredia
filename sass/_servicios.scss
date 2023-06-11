@@ -1,0 +1,48 @@
+.imagen1 {
+    height: 80%;
+    width: 90%;
+    margin: 15px;
+    border-radius: 20px;
+    justify-self: end;
+    &:hover {
+        scale: 1.1;
+        transition: 0.5s;
+    }
+    
+}
+
+.texto-servicios {
+    color: antiquewhite;
+    font-family: cursive;
+    text-align: center;
+    font-size: medium;
+}
+
+.texto-servicios2{
+    margin-top: 30px;
+}
+
+.imagen3-4 {
+    height: 80%;
+    width: 90%;
+    margin: 15px;
+    border-radius: 20px;
+    justify-self: end;
+        &:hover {
+        scale: 1.1;
+        transition: 0.5s;
+        }
+}
+
+.imagen-ultimas-servicios {
+    height: 50%;
+    width: 90%;
+    margin: 15px;
+    border-radius: 20px;
+    justify-self: end;
+        &:hover {
+        scale: 1.1;
+        transition: 0.5s;
+        }
+}
+

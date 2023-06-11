@@ -1,0 +1,18 @@
+@import "mediaqueries";
+
+.imagen1index {
+    height: 200px;
+    width: 300px;
+    margin: 15px;
+    border-radius: 20px;
+    justify-self: end;
+    &:hover {
+        scale: 1.1;
+        transition: 0.5s;
+    }
+}
+
+.texto-capacitaciones {
+    color: antiquewhite;
+    font-family: cursive;
+}
