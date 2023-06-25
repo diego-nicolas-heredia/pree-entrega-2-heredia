@@ -98,7 +98,7 @@ header {
   justify-self: end;
 }
 .imagen1index:hover {
-  scale: 1.1;
+  transform: scale(1.1);
   transition: 0.5s;
 }
 
@@ -148,7 +148,7 @@ header {
   justify-self: end;
 }
 .imagen1:hover {
-  scale: 1.1;
+  transform: scale(1.1);
   transition: 0.5s;
 }
 
@@ -171,7 +171,7 @@ header {
   justify-self: end;
 }
 .imagen3-4:hover {
-  scale: 1.1;
+  transform: scale(1.1);
   transition: 0.5s;
 }
 
@@ -183,7 +183,7 @@ header {
   justify-self: end;
 }
 .imagen-ultimas-servicios:hover {
-  scale: 1.1;
+  transform: scale(1.1);
   transition: 0.5s;
 }
 
@@ -199,7 +199,7 @@ main {
   justify-self: end;
 }
 .imagen1index:hover, .imagen1index--imagen2:hover {
-  scale: 1.1;
+  transform: scale(1.1);
   transition: 0.5s;
 }
 
@@ -242,7 +242,7 @@ main {
 }
 @media screen and (max-width: 480px) {
   .texto-index1 {
-    opacity: 0;
+    display: none;
   }
 }
 

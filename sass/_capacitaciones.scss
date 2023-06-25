@@ -7,7 +7,7 @@
     border-radius: 20px;
     justify-self: end;
     &:hover {
-        scale: 1.1;
+        transform: scale(1.1);
         transition: 0.5s;
     }
 }
